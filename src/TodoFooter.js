@@ -23,7 +23,7 @@ export default function StickyFooter() {
 
                 <Typography variant="body2" color="textSecondary">
                     {'Copyright © '}
-                    <Link color="inherit" href="https://shadman.netlify.com/">
+                    <Link color="inherit" href="https://github.com/shadmankhan/todoApp---MUI-React">
                         Shadman Khan
                         </Link>{' '}
                     {new Date().getFullYear()}
